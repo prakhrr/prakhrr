@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Prakhar"
+ theme = "classic" 
+
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+[params]
+    footer = "[Github](https://github.com/prakhrr) | [Twitter](https://twitter.com/Prakhar18491477)"
+
