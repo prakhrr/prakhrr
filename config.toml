@@ -1,7 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://prakhrr.github.io/"
 languageCode = "en-us"
+
 title = "Prakhar"
- theme = "classic" 
+
+theme = "classic"
+publishDir = "prakhrr.github.io" 
 
 [[menu.main]]
     name = "Categories"
