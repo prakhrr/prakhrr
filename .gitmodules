@@ -7,3 +7,6 @@
 [submodule "prakhrr.github.io"]
 	path = prakhrr.github.io
 	url = git@github.com:prakhrr/prakhrr.github.io.git
+[submodule "themes/black-and-light"]
+	path = themes/black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
